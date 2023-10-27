@@ -1,14 +1,10 @@
 package demo;
 
-public class Sample {
+public class Demo {
 
-	public static void main(String[] args) {
-
-		
-		System.out.println("Hi");
-		
-		
 	
+	public static void main(String[] args) {
+		
+		System.out.println("demo");
 	}
-
 }
